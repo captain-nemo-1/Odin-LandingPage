@@ -75,3 +75,18 @@ header a {
     border-radius: 20px;
 }
 
+.testimonial {
+    background-color: rgba(137, 201, 226, 0.712);
+    height: auto;
+}
+
+#quote , #quoter {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#quoter {
+    text-align: end;
+    padding: 0 20px 20px 0;
+}
